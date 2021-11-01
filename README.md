@@ -9,8 +9,8 @@
   - 10/29 ~ 11/04 ==> 동적계획법(DP) 부수기!!
   
 ## 자료구조/알고리즘 개념
-- 버킹독(c++) https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
-- kks227(c++) https://m.blog.naver.com/kks227?categoryNo=299
+- 버킹독(c++)<br> https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+- kks227(c++)<br> https://m.blog.naver.com/kks227?categoryNo=299
 
 ## FAIL 
 |주차|이름|
